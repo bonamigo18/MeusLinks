@@ -1,18 +1,33 @@
-# MeusLinks
-🌐 Página com Meus Links
+# 🌐 MeusLinks
 
-Este projeto é uma página simples e responsiva que reúne todos os meus links importantes em um só lugar. Ideal para usar como bio em redes sociais ou cartão de visitas digital.
+**Página Responsiva com Meus Links Importantes**
 
-✨ Funcionalidades
-Design limpo e responsivo
+Este projeto é uma página simples e responsiva que reúne todos os meus links importantes em um só lugar. Ideal para usar como **bio em redes sociais**, **cartão de visitas digital** ou **página pessoal**.
 
-Ícones personalizados para cada link
+Feito no curso Discover - Rocketseat
 
-Fácil de personalizar e expandir
+---
 
-🚀 Tecnologias Utilizadas
-HTML5
+## ✨ Funcionalidades
 
-CSS3
+- 💻 Design limpo, moderno e totalmente responsivo
+- 🔗 Ícones personalizados para cada link
+- 🛠️ Fácil de personalizar e expandir conforme a necessidade
 
-JavaScript
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- 🧱 **HTML5** — estrutura da página
+- 🎨 **CSS3** — estilo visual e responsividade
+- ⚙️ **JavaScript** — interações e funcionalidades dinâmicas
+
+---
+
+## 📸 Exemplo de Uso
+
+Você pode utilizar essa página como:
+
+- Link na bio do Instagram
+- Página inicial do seu portfólio
+- Cartão de visitas digital
